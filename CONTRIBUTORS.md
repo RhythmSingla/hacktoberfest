@@ -1,84 +1,84 @@
-#### Name: Vallenain
+##### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
 
-#### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
+##### Name: [AGNIESZKA MISZKURKA](https://github.com/agnieszka-miszkurka)
 - Place: Poland
 - Bio: second year Computer Science Student, in love with NYC <3
 - GitHub: [agnieszka-miszkurka](https://github.com/agnieszka-miszkurka)
 
-#### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
+##### Name: [ALEX MARRUJO](https://github.com/marrujoalex)
 - Place: California
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
-#### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
+##### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
 - GitHub: [Alice Chuang](https://github.com/AliceWonderland)
 
-#### Name: [AMIT CHAMBIAL](https://github.com/devaman)
+##### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
 - Bio: COMPUTER GEEK
 - GitHub: [AMIT CHAMBIAL](https://github.com/devaman)
 
-#### Name: [ANJALI](https://github.com/bansalanjali2512)
+##### Name: [ANJALI](https://github.com/bansalanjali2512)
  - Place: Delhi, India
  - Bio: Student
  - GitHub: [bansalanjali2512](https://github.com/bansalanjali2512)
 
-#### Name: [AP PRANAV](https://github.com/pranav-cs)
+##### Name: [AP PRANAV](https://github.com/pranav-cs)
 - Place: India
 - Bio: I like to code
 - GitHub: [AP Pranav](https://github.com/pranav-cs)
 
-#### Name: [APOORVA SHARMA](https://github.com/okatticus)
+##### Name: [APOORVA SHARMA](https://github.com/okatticus)
 - Place: Himachal Pradesh,India
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
-#### Name: [Aayush Sharma](https://github.com/aayusharma)
+##### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
 - GitHub: [Aayush Sharma](https://github.com/aayusharma)
 
-#### Name: [Abdullateef](https://github.com/abdullateef97)
+##### Name: [Abdullateef](https://github.com/abdullateef97)
 - Place: Lagos Island, Lagos State, Nigeria
 - Bio: Student Developer
 - GitHub: [Abdullateef](https://github.com/abdullateef97)
 
-#### Name: [Abhay Gawade](https://github.com/abhaygawade)
+##### Name: [Abhay Gawade](https://github.com/abhaygawade)
 - Place: Pune, Maharashtra, India
 - Bio: Technology enthusiastic!
 - GitHub: [Abhay Gawade](https://github.com/abhaygawade)
 
-#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
+##### Name: [Abhishek Bhatt](https://github.com/ab-bh)
  - Place: New Delhi, India
  - Bio: Software developer, studying B.Tech CSE
  - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
-#### Name: [Abhishek Bhatt](https://github.com/ab-bh)
+##### Name: [Abhishek Bhatt](https://github.com/ab-bh)
 - Place: New Delhi, India
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
-#### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
+###### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
 
-#### Name: [Aditya Giri](https://github.com/BrainBuzzer)
+##### Name: [Aditya Giri](https://github.com/BrainBuzzer)
 - Place: Latur, India
 - Bio: Student
 - Github: [Udit Mittal](https://github.com/BrainBuzzer)
 
-#### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
+##### Name: [Aditya Yuvaraj](https://github.com/Screwed-Up-Head)
 - Place: Pune, India
 - Bio: Metalhead law student who loves hardware and code
 - GitHub: [Screwed-Up-Head](https://github.com/Screwed-Up-Head)
 
-#### Name: [Adiyat Mubarak](https://github.com/Keda87)
+##### Name: [Adiyat Mubarak](https://github.com/Keda87)
 - Place: Jakarta, ID, Indonesia
 - Bio: Technology Agnostic
 - GitHub: [Adiyat Mubarak](https://github.com/Keda87)
